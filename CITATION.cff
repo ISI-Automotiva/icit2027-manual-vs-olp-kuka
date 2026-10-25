@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these data or this script, please cite them as below."
+title: "Manual vs. offline-programmed KUKA KR 60-3 program: physical acquisitions and analysis script"
+type: dataset
+date-released: 2026-10-26
+license: CC-BY-4.0
+authors:
+  - given-names: Thiago Silva
+    family-names: Cavalcanti
+    affiliation: "Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação"
+  - given-names: Henrique Gomes
+    family-names: Trindade
+    affiliation: "Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação"
+  - given-names: Francisco Erberto
+    family-names: de Sousa
+    affiliation: "Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação"
+  - given-names: Edson Moura
+    family-names: Silva
+    affiliation: "Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação"
+  - given-names: Wedlon Claudio
+    family-names: da Silva
+    affiliation: "Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação"
+  - given-names: Bruno Cesar Rodrigues
+    family-names: Brasil
+    affiliation: "Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação"
+keywords:
+  - offline programming
+  - industrial robot
+  - KUKA
+  - cycle time
+  - axis torque
